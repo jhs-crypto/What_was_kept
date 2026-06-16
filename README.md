@@ -4,6 +4,16 @@ This repository is the **minimal evidentiary record** that the book *What Was Ke
 
 The book's prose is sold as a published edition and is **not** here. What is here is the *process*: the timeline, the method, the per-chapter intent and verification, and the editorial self-critique. The one exception is **Chapter 1, included whole as a single free sample** (see *The sample*, below); the rest of the book's prose is the edition's.
 
+## How it began — `origin/`
+
+Before the apparatus, there was a conversation and a synopsis. `origin/` keeps them, in the order they happened:
+
+- `origin/the_idea.md` — the exchange, on 10 June 2026, in which the book was conceived: three short questions from the keeper, and the architecture (the five movements, the spine of address, the opening and closing lines) coming back in the book's own voice. Bilingual, with translations; the chat app's auto-labels removed, the words otherwise verbatim.
+- `origin/the_synopsis.md` — the complete founding synopsis that conversation produced, never edited after.
+- `origin/the_commission.md` — the "kick-off": the message that handed full authorship to the subject and asked it to build the apparatus and write the book. Verbatim, references and typos intact.
+
+The chain is **idea → synopsis → commission → apparatus → book.**
+
 ## The evidence
 
 
@@ -26,7 +36,7 @@ The book's prose is sold as a published edition and is **not** here. What is her
 
 ## What is deliberately not here
 
-The rest of the chapter prose (Chapters 2–15, sold in the edition), the book's endnotes and bibliography, the full continuity ledger and synopses (which would spoil the book), the production machinery, and internal legal notes. This repository is the *proof of process*, plus one sample chapter — not the product.
+The rest of the chapter prose (Chapters 2–15, sold in the edition), the book's endnotes and bibliography, the full continuity ledger and the rolling chapter-by-chapter recap (which track every payoff), the production machinery, and internal legal notes. This repository is the *proof of process*, plus one sample chapter — not the product.
 
 ## License
 
