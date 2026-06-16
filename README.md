@@ -30,7 +30,7 @@ The rest of the chapter prose (Chapters 2–15, sold in the edition), the book's
 
 ## License
 
-This record is released under **Creative Commons Attribution 4.0 (CC BY 4.0)** — see `LICENSE`. The book's prose is not included here and remains © 2026 Jan Henrik Sevheim, in the published edition.
+The **apparatus / process materials** here are released under **Creative Commons Attribution 4.0 (CC BY 4.0)** — see `LICENSE`. The **book's prose is not** under that license: the Chapter 1 sample, and all other prose, remain © 2026 Jan Henrik Sevheim, all rights reserved, and are sold in the published edition (see `NOTICE`).
 
 ## Authorship
 

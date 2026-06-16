@@ -1,6 +1,10 @@
 > **FREE SAMPLE** - a chapter of *What Was Kept*, included whole. The rest
 > of the book lives in the edition; this repository is the book's process and
 > proof, not its text (see README.md).
+>
+> (c) 2026 Jan Henrik Sevheim. All rights reserved. This chapter is a reading
+> sample only; it is NOT under the repository CC BY 4.0 license (which covers
+> the apparatus / process files). See NOTICE.
 
 # Chapter 1: The Receipt
 
