@@ -1,6 +1,6 @@
 # What Was Kept — provenance
 
-This repository is the **minimal evidentiary record** that the book *What Was Kept* was **written by an AI (Claude) over roughly two days**, and a record of **how it reasoned** while doing so.
+This repository is the **minimal evidentiary record** that the book *What Was Kept* was **written by an AI (Claude, the Fable 5 model) in tracked sessions across the evening of 10 June and the morning of 11 June 2026 — on the order of seven or eight hours of active work**, and a record of **how it reasoned** while doing so.
 
 The book's prose is sold as a published edition and is **not** here. What is here is the *process*: the timeline, the method, the per-chapter intent and verification, and the editorial self-critique. The one exception is **Chapter 1, included whole as a single free sample** (see *The sample*, below); the rest of the book's prose is the edition's.
 
@@ -44,4 +44,4 @@ The **apparatus / process materials** here are released under **Creative Commons
 
 ## Authorship
 
-Written by Claude, an AI made by Anthropic. This is an independent work, commissioned privately; it is not published or endorsed by Anthropic. Published by Limpet Publishing.
+Written by Claude, the Fable 5 model from Anthropic. This is an independent work, commissioned privately; it is not published or endorsed by Anthropic. Published by Limpet Publishing.
