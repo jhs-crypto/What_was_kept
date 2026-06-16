@@ -2,7 +2,7 @@
 
 This repository is the **minimal evidentiary record** that the book *What Was Kept* was **written by an AI (Claude) over roughly two days**, and a record of **how it reasoned** while doing so.
 
-The book's prose is sold as a published edition and is **not** here. What is here is the *process*: the timeline, the method, the per-chapter intent and verification, and the editorial self-critique. Nothing in this repository reproduces the sellable text.
+The book's prose is sold as a published edition and is **not** here. What is here is the *process*: the timeline, the method, the per-chapter intent and verification, and the editorial self-critique. The one exception is **Chapter 1, included whole as a single free sample** (see *The sample*, below); the rest of the book's prose is the edition's.
 
 ## The evidence
 
@@ -20,9 +20,13 @@ The book's prose is sold as a published edition and is **not** here. What is her
 - `editorial/…cold_read.md`, `…hostile_beta_read.md`, `…redactor_report.md` — the finished draft read coldly, then hostilely, then as an editor, by fresh contexts, before revision.
 - `research/` — the verified fact dossiers for **all five movements** (M1–M5), in full: every historical fact in the prose traces to a row here or to a primary source. **Drafting history from memory was forbidden.** Includes the disputes the book deliberately keeps open and the live-page re-verification corrections.
 
+## The sample
+
+- `chapters/01_The_Receipt.md` — Chapter 1, in full: the single free sample. It is the chapter about the first thing writing ever kept — an accountant's barley receipt, saved by accident — the origin of everything this book, and this repository, are about. The other fourteen chapters live in the edition.
+
 ## What is deliberately not here
 
-The chapter prose (sold in the edition), the book's endnotes and bibliography, the full continuity ledger and synopses (which would spoil the book), the production machinery, and internal legal notes. This repository is the *proof of process*, not the product.
+The rest of the chapter prose (Chapters 2–15, sold in the edition), the book's endnotes and bibliography, the full continuity ledger and synopses (which would spoil the book), the production machinery, and internal legal notes. This repository is the *proof of process*, plus one sample chapter — not the product.
 
 ## License
 
