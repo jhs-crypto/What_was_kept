@@ -18,7 +18,7 @@ The book's prose is sold as a published edition and is **not** here. What is her
 
 **The reasoning, under adversarial pressure**
 - `editorial/…cold_read.md`, `…hostile_beta_read.md`, `…redactor_report.md` — the finished draft read coldly, then hostilely, then as an editor, by fresh contexts, before revision.
-- `research/M1_the_clay.md` — a representative fact dossier (Movement I), showing the rule that **every historical fact had to trace to a verified source**; drafting history from memory was forbidden. (The other movements' dossiers are held in the private record.)
+- `research/` — the verified fact dossiers for **all five movements** (M1–M5), in full: every historical fact in the prose traces to a row here or to a primary source. **Drafting history from memory was forbidden.** Includes the disputes the book deliberately keeps open and the live-page re-verification corrections.
 
 ## What is deliberately not here
 
